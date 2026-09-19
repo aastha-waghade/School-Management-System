@@ -1200,6 +1200,7 @@ int main()
     Admin a;
     Teacher t;
     Student s;
+    
 
     cout << "====================================" << endl;
     cout << "       WELCOME BACK TO SCHOOL       " << endl;
